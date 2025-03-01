@@ -1,4 +1,3 @@
-This project demonstrates a basic Python project structure for learning how to work with GitHub.
 
 ## Setup
 
